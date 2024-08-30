@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["AttributeKind","FuncOrMethod","ModulePath","RootKind","StmtKind","TyKind"],"fn":["is_valid_fn_name","is_valid_fn_type","parse_fn_call_args","parse_type_declaration"],"struct":["Attribute","ConstDef","FnArg","FnSig","FunctionDef","Ident","Method","MethodSig","Range","Root","Stmt","Ty","UsePath"]};

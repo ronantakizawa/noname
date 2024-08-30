@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["read_manifest"],"struct":["Manifest","Package"]};
